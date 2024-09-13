@@ -1,1 +1,1 @@
-install all libraries for all related to 
+install all libraries in where mentioned in code in new enviroment
